@@ -103,9 +103,7 @@ This project highlights strong SQL querying, analytical thinking, and business p
 
 ---
 
-## 👩‍💻 Author
 
-Sakshi Patil
 Aspiring Data Analyst | SQL | Data Analytics | Business Intelligence
 
 📌 This project is part of my data analytics portfolio and demonstrates practical, industry-relevant SQL skills.
